@@ -29,3 +29,5 @@ data/libero_object/
 data/libero_goal/
 ~/.cache/huggingface/
 
+# Keep mp4 locally; commit GIF previews instead
+results/videos/**/*.mp4
