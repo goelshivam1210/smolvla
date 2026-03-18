@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+pyarrow
+
+# Core robotics and SmolVLA stack
+lerobot[smolvla,libero]
+libero
+
+# Logging / experiment tracking
+wandb
+
