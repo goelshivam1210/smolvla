@@ -22,7 +22,6 @@ env/
 
 # Training / eval outputs
 outputs/
-results/videos/
 
 # Large local datasets / caches (HF / LIBERO)
 data/libero_spatial/
